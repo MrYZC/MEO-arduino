@@ -1,2 +1,2 @@
-# MEO-arduino
+# WS2812-arduino
 A LED IOT PROJECT
